@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oi! Eu sou o Wagner! Muito prazer 
+
+- 👨‍💻 Atualmente estou trabalhando como Analista de Dados.
+- 👨‍🎓 Estou estudando para engenharia de dados
+
 
 <!--
 **wagnerfelippe/wagnerfelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
