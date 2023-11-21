@@ -4,14 +4,6 @@
 - 👨‍🎓 Estou estudando para engenharia de dados
 
 
-
-
-          
-<div style="display: inline_block"><br>
-          <img color='white' align='left' height='40' width='50' src="https://github.com/wagnerfelippe/wagnerfelippe/assets/38478874/b19e942a-d537-4415-bf14-338fc7e66089">
-</div>
-     
-
           
 
           
