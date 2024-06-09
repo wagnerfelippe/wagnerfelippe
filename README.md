@@ -5,6 +5,8 @@
 
 ### Testando funções git
 ### Comando git push
+
+### Comando git pull
           
           
 
