@@ -3,10 +3,7 @@
 - 👨‍💻 Atualmente estou trabalhando como Analista de Dados.
 - 👨‍🎓 Estou estudando para ser um Engenheiro de Dados.         
 
-### Testando funções git
-### Comando git push
-
-### Comando git pull
+* Comando git fat
           
           
 
