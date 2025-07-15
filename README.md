@@ -1,9 +1,8 @@
 ### Oi! Eu sou o Wagner! Muito prazer 
 
 - 👨‍💻 Atualmente estou trabalhando como Analista de Dados.
-- 👨‍🎓 Estou estudando para ser um Engenheiro de Dados.         
+- 👨‍🎓 Estou estudando para ser um Engenheiro de Dados/Desenvolvedor SAP/ABAP      
 
-* Comando git fat
           
           
 
