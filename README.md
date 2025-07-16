@@ -3,7 +3,7 @@
 - 👨‍🎓 Estou estudando para ser um Engenheiro de Dados SAP
 
 <p align="left">
-  Analista de Dados em formação para a transição de carreira para ser um Engenheiro de dados SAP, com o propósito de aprimorar a cada dia com as ferramentas e metodologias modernas. <br>
+  Atualmente atuo como Analista de Dados e estou em uma transição de carreira para ser um Engenheiro de dados SAP, com o propósito de aprimorar a cada dia com as ferramentas e metodologias modernas. <br>
   Tenho focado meus estudos em uma trilha de conhecimento para engenharia que envolve <strong>SQL, Pyhton, GCP, Apache Spark, Airflow, </strong> entre outros.
 </p>
 
