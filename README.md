@@ -19,6 +19,13 @@
 ---
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/wagnerfelippe>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
+<a href="https://github.com/wagnerfelippe">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerfelippe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+
+
+## 📚 Meus estudos
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [wagnerfelippe/Data-Egineer](https://github.com/wagnerfelippe/Data-Engineer).  
+Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvidos e algumas anotações por enquanto. Logo terá mais atualizações de projetos reais.
+
+> Manter esse espaço vai me ajudar a acompanhar minha evolução e, quem sabe, também ajudar outros com algo relevante.
