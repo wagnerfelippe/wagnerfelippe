@@ -15,10 +15,10 @@
 - 🌍 Explorando novas tecnologias/ferramentas e criando integrações robustas em nossa base de dados.
 
 
----
 <br>
-
-!Github stats
-
-###
 ---
+
+## ⭐ GitHub Stats
+<a href="https://github.com/wagnerfelippe>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
