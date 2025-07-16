@@ -34,14 +34,32 @@ Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvido
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,py,docker)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=gcp,py)](https://skillicons.dev) 
 [](https://skillicons.dev) <img src="https://cdn-icons-png.flaticon.com/512/8422/8422322.png" width="50" alt="Google Sheets"> 
-[](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/3fda731e-5e8e-4ec4-aa6d-d63dd85dbb68" width="50" alt="Google Sheets">
+
 
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
+### 📚 Em aprendizado
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
+[](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/3fda731e-5e8e-4ec4-aa6d-d63dd85dbb68" width="50" alt="Google Sheets">
+[](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/87521341-aae7-4988-939a-8f5d0f7f9fdc" width="50" alt="Google Sheets">
+[](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/cc4bfe06-afd3-4958-ad95-3a05fe756721" width="50" alt="Google Sheets">
+[](https://skillicons.dev) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/743px-SAP-Logo.svg.png?20241103115117" width="97" alt="Google Sheets">
+[](https://skillicons.dev) <img src="https://community.sap.com/legacyfs/online/storage/blog_attachments/2023/09/ABAP_Cloud_Logo.png" width="97" alt="Google Sheets">
 
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn! 💌
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wag3ipi@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/wagner-felippe-data/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
