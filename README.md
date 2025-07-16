@@ -1,4 +1,4 @@
-# Oi! Eu sou o Wagner!
+# Olá! Prazer! Me chamo Wagner!
 - 👨‍💻 Atualmente estou trabalhando como Analista de Dados.
 - 👨‍🎓 Estou estudando para ser um Engenheiro de Dados SAP
 
