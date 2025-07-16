@@ -29,3 +29,19 @@ Organizo meus aprendizados e anotações em uma organização separada no GitHub
 Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvidos e algumas anotações por enquanto. Logo terá mais atualizações de projetos reais.
 
 > Manter esse espaço vai me ajudar a acompanhar minha evolução e, quem sabe, também ajudar outros com algo relevante.
+
+
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,py,docker)](https://skillicons.dev) 
+[](https://skillicons.dev) <img src="https://cdn-icons-png.flaticon.com/512/8422/8422322.png" width="50" alt="Google Sheets"> 
+[](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/3fda731e-5e8e-4ec4-aa6d-d63dd85dbb68" width="50" alt="Google Sheets">
+
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+
+
+
