@@ -11,7 +11,7 @@
 
 - 🖥️ Analista de Dados Sênior
 - 🎓 Graduado em Analise de Sistemas pela UTP
-- 📚 Estudando SQL, Pyhton, GCP, Apache Spark, Airflow e aprimoramento no mundo SAP
+- 📚 Estudando SQL, Pyhton, GCP, Apache Spark, Airflow, entre outras ferramentas e conceitos para engeharia de dados e aprimoramento no mundo SAP
 - 🌍 Explorando novas tecnologias/ferramentas e criando integrações robustas em nossa base de dados.
 
 
