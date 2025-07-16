@@ -4,13 +4,13 @@
 
 <p align="left">
   Atualmente atuo como Analista de Dados e estou em uma transição de carreira para ser um Engenheiro de dados SAP, com o propósito de aprimorar a cada dia com as ferramentas e metodologias modernas. <br>
-  Tenho focado meus estudos em uma trilha de conhecimento para engenharia que envolve <strong>SQL, Pyhton, GCP, Apache Spark, Airflow, </strong> entre outros.
 </p>
 
 ## Sobre mim
 
 - 🖥️ Analista de Dados Sênior
 - 🎓 Graduado em Analise de Sistemas pela UTP
+- 🎓 Especialização em Apache Airflow (Data Engineer)
 - 📚 Estudando SQL, Pyhton, GCP, Apache Spark, Airflow, entre outras ferramentas e conceitos para engeharia de dados e aprimoramento no mundo SAP
 - 🌍 Explorando novas tecnologias/ferramentas e criando integrações robustas em nossa base de dados.
 
