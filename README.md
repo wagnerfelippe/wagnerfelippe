@@ -18,7 +18,7 @@
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/wagnerfelippe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerfelippe&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_buster=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerfelippe&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_buster=8"/>
 </a>
 
 
@@ -76,12 +76,12 @@ Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvido
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wagnerfelippe.wagnerfelippe&left_color=green&right_color=darkgreen&cache_buster=5" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wagnerfelippe.wagnerfelippe&left_color=green&right_color=darkgreen&cache_buster=8" width="80" />
 </div>
 
 <div align="center">
   
-  [![Wagner Felippe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wagnerfelippe&bg_color=0d1117&color=fffffe&line=228B22&point=228B22&area=true&area_color=ADFF2F&hide_border=true&cache_buster=124)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Wagner Felippe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wagnerfelippe&bg_color=0d1117&color=fffffe&line=228B22&point=228B22&area=true&area_color=ADFF2F&hide_border=true&cache_buster=129)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
