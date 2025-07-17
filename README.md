@@ -76,7 +76,7 @@ Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvido
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wagnerfelippe.wagnerfelippe&left_color=green&right_color=darkgreen&cache_buster=1" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wagnerfelippe.wagnerfelippe&left_color=green&right_color=darkgreen&cache_buster=2" width="80" />
 </div>
 
 <div align="center">
