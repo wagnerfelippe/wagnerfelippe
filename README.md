@@ -1,17 +1,17 @@
-# Olá! Prazer! Me chamo Wagner!
-- 👨‍💻 Atualmente estou trabalhando como Analista de Dados.
-- 👨‍🎓 Estou estudando para ser um Engenheiro de Dados SAP
+# Hello! Pleasure! My name is Wagner!
+- 👨‍💻 I am currently working as a Data Analyst
+- 👨‍🎓 I'm studying to be a SAP Data Engineer
 
 <p align="left">
-  Atualmente atuo como Analista de Dados e estou em uma transição de carreira para ser um Engenheiro de dados SAP, com o propósito de aprimorar a cada dia com as ferramentas e metodologias modernas. <br>
+  I currently work as a Data Analyst and I am in a career transition to be a SAP Data Engineer, with the purpose of improving every day with modern tools and methodologies. <br>
 </p>
 
-## Sobre mim
+## About me
 
-- 🖥️ Analista de Dados Sênior
-- 🎓 Graduado em Analise de Sistemas pela UTP
-- 📚 Fazendo uma especialização em Apache Airflow que envolve tudo sobre engenharia de dados, como SQL, Pyhton, GCP, Apache Spark, Airflow, entre outras ferramentas e conceitos e aprimoramento no mundo SAP
-- 🌍 Explorando novas tecnologias/ferramentas e criando integrações robustas em nossa base de dados.
+- 🖥️ Senior Data Analyst
+- 🎓 Graduated in Systems Analysis from UTP
+- 📚 Studying a specialization in Apache Airflow that involves everything about data engineering, such as SQL, Pyhton, GCP, Apache Spark, Airflow, among other tools and concepts and improvement in the SAP world
+- 🌍 Exploring new technologies/tools and creating robust integration into our database.
 
 
 <br>
