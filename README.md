@@ -24,15 +24,15 @@
 </a>
 
 
-## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [wagnerfelippe/Data-Egineer](https://github.com/wagnerfelippe/Data-Engineer).  
-Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvidos e algumas anotações por enquanto. Logo terá mais atualizações de projetos reais.
+## 📚 My Studies
+I organize my learnings and notes in a separate organization in the github called [wagnerfelippe/Data-Egineer](https://github.com/wagnerfelippe/Data-Engineer).  
+I am still improving the repository. There you find resolved challenges and some notes for now. Soon you will have more real project updates.
 
-> Manter esse espaço vai me ajudar a acompanhar minha evolução e, quem sabe, também ajudar outros com algo relevante.
+> Maintaining this space will help me follow my evolution and, perhaps, also help others with something relevant.
 
 
 
-## Tecnologias e linguagens 💻
+## Technologies and Languages 💻
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,py)](https://skillicons.dev) 
 [](https://skillicons.dev) <img src="https://cdn-icons-png.flaticon.com/512/8422/8422322.png" width="50" alt="Google Sheets"> 
@@ -45,11 +45,11 @@ Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvido
 
 
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Development tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
-### 📚 Em aprendizado
+### 📚 In learning
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
 [](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/3fda731e-5e8e-4ec4-aa6d-d63dd85dbb68" width="50" alt="Google Sheets">
 [](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/87521341-aae7-4988-939a-8f5d0f7f9fdc" width="50" alt="Google Sheets">
@@ -59,13 +59,13 @@ Ainda estou aperfeiçoando o repositório. Lá você encontra desafios resolvido
 
 
 <p align="left"> 
-  Sou formado como <strong>Análise de Sistemas</strong> pelo Univesidade Tuiuti do Paraná e atualmente curso o <strong>Engenharia de Dados Academy</strong> do Luan Moreno Medeiros.<br><br>
-  Tenho me aprofundado em várias tecnologias para aperfeiçoar o máximo de informação seguindo um trilha de conhecimento nessária para o avanço da minha carreira. Também venho explorando nesse mundo <strong>SAP</strong> pois acredito que tenha mais oportunidades em um mercado que vem crescendo constantemente.
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+  I am graduated as <strong>Systems Analysis</strong> from the Tuiuti University of Paraná and currently Course the <strong>Data Engineering Academy</strong> of Luan Moreno Medeiros. <br> <br> 
+I have deepened in various technologies to improve as much information as a trail of numerous knowledge for the advancement of my career. I have also been exploring in this world <strong> SAP </strong> because I believe it has more opportunities in a constantly growing market. 
+I believe learning by building is the best way, and so I make theory into practice whenever possible 🚀
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn! <img src="https://cdn-icons-png.flaticon.com/512/7286/7286142.png" width="15" alt="Google Sheets">
+Let's connect? Send me an email or follow me on LinkedIn! <img src="https://cdn-icons-png.flaticon.com/512/7286/7286142.png" width="15" alt="Google Sheets">
 </p>
 
 <p align="left">
