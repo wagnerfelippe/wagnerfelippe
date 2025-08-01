@@ -18,8 +18,8 @@
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/wagnerfelippe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerfelippe&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_buster=6"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerfelippe&layout=compact&langs_count=6&theme=merko&cache_buster=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerfelippe&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_buster=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerfelippe&layout=compact&langs_count=6&theme=merko&cache_buster=1"/>
 
 </a>
 
